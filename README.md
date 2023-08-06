@@ -1,1 +1,1 @@
-# myMar2022WeekdayBatchRepo
+# Deploy the project through Jenkins on TomCat Server
