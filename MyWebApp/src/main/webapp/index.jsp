@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> We are migrating this WebApp from GitHub into Azure cloud using Azure piplines!!!!!!!!</h2>
+	<h2> This is Assignment-2!!!!!!!!</h2>
 	<h2> Testing deployment on Tomcat server through jenkins</h2>
   
 </body>
